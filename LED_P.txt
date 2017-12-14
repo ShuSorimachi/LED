@@ -1,1 +1,7 @@
 940nm赤外LEDの発光を確認
+ZEBRA SARASA CLIP 0.4
+IR76, IR82両方とも見える
+uni JETSTREAM 0.5
+IR76, IR82両方とも見える
+PILOT HI-TEC-C coleto 0.3
+IR76, IR82両方とも見える
